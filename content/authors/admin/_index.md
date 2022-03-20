@@ -9,7 +9,7 @@ social:
     icon_pack: fas
     link: about/#contact
 organizations:
-  - name: "~"
+  - name: " "
     url: ""
 superuser: true
 status:
