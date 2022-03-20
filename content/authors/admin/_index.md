@@ -1,7 +1,7 @@
 ---
 title: One Demo
 role: Linux学习记录
-avatar_filename: https://s3.bmp.ovh/imgs/2022/03/3621401ac2fa7d3d.jpeg
+avatar_filename: assets/media/img_0953.jpeg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 social:
